@@ -108,7 +108,10 @@ body {
 
 table {
     background-color: grey;
-    border: 2px black;
+}
+
+tr, td {
+    border: 3px black;
 }
 
 ul.topnav {
