@@ -119,3 +119,7 @@ tr {
 td {
     border: 3px black;
 }
+.content{
+    position: absolute;
+    background: black;
+}
